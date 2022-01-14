@@ -857,9 +857,9 @@ RAMDANI.sendMessage(id, buttonMessages, MessageType.buttonsMessage, options)
 ├• *Baterai : ${baterai}%*
 └────────────>
     ├❒ *INFO BOT*
-    ├• *Nama bot : RAMDANI BOTZ*
-    ├• *Nomor : @6288975996370*
-    ├• *Owner : Ramdani Official*
+    ├• *Nama bot :CALLANG BOTZ*
+    ├• *Nomor : @6285340783774*
+    ├• *Owner : ASLAM GWANTENG*
     ├• *Aktif : ${runtime(process.uptime())}*
     ├• *Prefix : 『> multi prefix <』*
     ├• *Pukul : ${moment().utcOffset('+0700').format('HH:mm')}*
@@ -3411,7 +3411,7 @@ break
               textImg(`${runtime(process.uptime())}`)
               break
        case 'youtube': 
-              reply(`*Subcribe YT Owner :*\n https://youtube.com/channel/UCB157jomCne961WzYHpG4gg`)
+              reply(`*Subcribe YT Owner :*\n https://youtube.com/channel/UCY5u0qN7DmOzYlRyX1an7DQ`)
               break
 case 'y':
 reply ('Y')
@@ -4895,7 +4895,7 @@ break
              reply(`*Pulsa :* 089512545999`)
              break              
       case 'infoig':
-             reply(`Follow Instagram Owner Ya : https://www.instagram.com/muhammadramdani196453`)
+             reply(`Follow Instagram Owner Ya : https://www.instagram.com/callang172`)
              break
       case 'grupbot':
              reply('https://chat.whatsapp.com/Loc6xVYLGnwHm9vuz6hZe7')
